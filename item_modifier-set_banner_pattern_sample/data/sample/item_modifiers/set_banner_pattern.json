@@ -1,0 +1,11 @@
+{
+    "function": "minecraft:set_banner_pattern",
+    "patterns": [
+      {
+        "pattern": "minecraft:cross",
+        "color": "pink"
+      }
+    ],
+    "append": true
+  }
+  

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:entity",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:lime_banner",
+            "functions": [
+              {
+                "function": "minecraft:set_banner_pattern",
+                "patterns": [
+                  {
+                    "pattern": "minecraft:creeper",
+                    "color": "red"
+                  }
+                ],
+                "append": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
